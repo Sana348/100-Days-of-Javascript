@@ -8,4 +8,4 @@ function highestNumber(arr){
     return highest;
 }
 
-console.log(highestNumber([1,45,11,22,567,0,9,7]))
+console.log(highestNumber([1,45,11,22,7,0,9,7]))

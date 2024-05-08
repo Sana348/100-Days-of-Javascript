@@ -16,5 +16,5 @@ function palindrome(str){
 
 
 }
-let str = "racecar";
+let str = "anna";
 palindrome(str);
