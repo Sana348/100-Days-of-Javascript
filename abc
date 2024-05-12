@@ -1,6 +1,6 @@
 
 
-function checkEqual(a,b){
+function check(a,b){
 
 let result = a.reduce((accc,curval)=>{
 
