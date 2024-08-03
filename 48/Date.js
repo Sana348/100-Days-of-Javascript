@@ -13,7 +13,7 @@ const validateDate = (date) => {
   
   // Test cases
   console.log(validateDate('2024-07-30')); // true
-  console.log(validateDate('1899-12-31')); // false
+  console.log(validateDate('1999-12-31')); // false
   console.log(validateDate('2100-01-01')); // false
   console.log(validateDate('not a date')); // false
   
