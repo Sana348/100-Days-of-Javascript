@@ -6,7 +6,7 @@ function isValidHexColor(hex) {
 // Test cases
 console.log(isValidHexColor("#FFFFFF")); // true
 console.log(isValidHexColor("#FFF"));    // true
-console.log(isValidHexColor("#ff5733")); // true
+console.log(isValidHexColor("#33")); // false
 console.log(isValidHexColor("#123"));    // true
 console.log(isValidHexColor("#12345G")); // false
 console.log(isValidHexColor("123456"));  // false
